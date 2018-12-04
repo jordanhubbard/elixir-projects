@@ -22,8 +22,6 @@ defmodule Dictionary.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ex_doc, "~> 0.19", only: :dev, runtime: false},
-      {:observer_cli, "~> 1.4"}
     ]
   end
 end

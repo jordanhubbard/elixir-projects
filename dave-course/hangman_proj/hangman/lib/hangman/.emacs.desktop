@@ -1,0 +1,139 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Dec  3 10:29:06 2018
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23557 30194 216614 0) (desktop . "208") "jkh@katana.local" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend mac-ct) (font . "-*-Monaco-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "mac:textColor") (background-color . "mac:textBackgroundColor") (mouse-color . "mac:textColor") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (alpha) (scroll-bar-foreground) (scroll-bar-background) (tool-bar-lines . 1) (title) (inhibit-double-buffering) (menu-bar-lines . 1) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . light) (cursor-color . "black") (environment) (frameset--id . "33EF-A51E-FEB1-83C9") (frameset--mini t . t) (height . 50) (width . 121) (modeline . t) (unsplittable) (left . 237) (top . 23) (icon-name) (display . "Mac") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 70) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 49) (min-pixel-height-safe . 16) (min-pixel-width-safe . 14)) leaf (pixel-width . 878) (pixel-height . 784) (total-width . 125) (total-height . 49) (normal-height . 1.0) (normal-width . 1.0) (buffer "server.ex<hangman_proj>" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 3 t nil 0 t) (vscroll . 0) (dedicated) (point . 176) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("|>" "random"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Src/elixir-projects/dave-course/hangman_proj/hangman/lib/hangman/" "~/Src/elixir-projects/dave-course/hangman_proj/hangman/" "~/Src/elixir-projects/dave-course/hangman/lib/hangman/" "~/Src/elixir-projects/dave-course/hangman/lib/hangman/server.ex" "~/Src/elixir-projects/dave-course/hangman/" "~/Src/elixir-projects/dave-course/fibcache/kvcache/test/kvcache_test.exs" "~/Src/elixir-projects/dave-course/dictionary/mix.exs" "~/Src/elixir-projects/dave-course/text_client/mix.exs" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary/word_list.ex" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary/application.ex" "~/Src/elixir-projects/dave-course/fibcache/fib/lib/" "~/Src/elixir-projects/dave-course/fibcache/fib/test/fib_test.exs" "~/Src/elixir-projects/dave-course/fibcache/kvcache/test/kvcache_test.exs" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/cache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/application.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/cache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/application.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/cache.ex" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/test/kvcache_test.exs" "~/Src/elixir-projects/dave-course/dictionary/mix.exs" "~/Src/elixir-projects/dave-course/fibcache/kvcache/mix.exs" "~/Src/elixir-projects/dave-course/hangman/mix.exs" "~/Src/elixir-projects/dave-course/fibcache/fib/mix.exs" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/cache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/application.ex" "~/Src/elixir-projects/dave-course/fibcache/fib/lib/fib.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/kvcache/cache.ex" "~/Src/elixir-projects/dave-course/fibcache/kvcache/lib/" "~/Src/elixir-projects/dave-course/fibcache/" "~/Src/elixir-projects/dave-course/dictionary/mix.exs" "~/Src/elixir-projects/dave-course/hangman/lib/hangman" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary/application.ex" "~/Src/elixir-projects/dave-course/dictionary/mix.exs" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary/application.ex" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary/word_list.ex" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary.ex" "~/Src/elixir-projects/dave-course/dictionary/test/dictionary_test.exs" "~/Src/elixir-projects/dave-course/dictionary/lib/dictionary" "~/Src/elixir-projects/dave-course/dictionary/" "~/Src/elixir-projects/dave-course/" "~/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/hangman_proj/hangman/lib/hangman/server.ex"
+  "server.ex"
+  'elixir-mode
+  nil
+  176
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23557 30187 902033 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/hangman/lib/hangman/server.ex"
+  "server.ex"
+  'elixir-mode
+  nil
+  176
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 23557 30150 111394 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "hangman"
+  'dired-mode
+  nil
+  254
+  '(nil nil)
+  t
+  '("/Users/jkh/Src/elixir-projects/dave-course/hangman/lib/hangman/")
+  '((buffer-display-time 23557 30105 519659 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/hangman/lib/hangman.ex"
+  "hangman.ex"
+  'elixir-mode
+  nil
+  46
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23556 37247 518821 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "lib"
+  'dired-mode
+  nil
+  303
+  '(nil nil)
+  t
+  '("/Users/jkh/Src/elixir-projects/dave-course/hangman/lib/")
+  '((buffer-display-time 23556 36586 957440 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "hangman"
+  'dired-mode
+  nil
+  634
+  '(nil nil)
+  t
+  '("/Users/jkh/Src/elixir-projects/dave-course/hangman/")
+  '((buffer-display-time 23556 36582 349598 0))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/hangman/lib/hangman/game.ex"
+  "game.ex"
+  'elixir-mode
+  nil
+  1350
+  '(985 nil)
+  nil
+  nil
+  '((buffer-display-time 23556 36578 231873 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (111 1257 1241 135 345 345 1 1350))))
+
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/dictionary/lib/dictionary.ex"
+  "dictionary.ex"
+  'elixir-mode
+  nil
+  152
+  '(41 nil)
+  nil
+  nil
+  '((buffer-display-time 23556 19949 246267 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (70 70 70 157))))
+
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/dictionary/test/dictionary_test.exs"
+  "dictionary_test.exs"
+  'elixir-mode
+  nil
+  435
+  '(522 nil)
+  nil
+  nil
+  '((buffer-display-time 23554 13487 480095 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/jkh/Src/elixir-projects/dave-course/fib.exs"
+  "fib.exs"
+  'elixir-mode
+  nil
+  160
+  '(19 nil)
+  nil
+  nil
+  '((buffer-display-time 23553 57161 963197 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
