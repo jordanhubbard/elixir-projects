@@ -108,4 +108,4 @@ Enum.map(monitors, fn(ref) ->
 	end)
 
 IO.puts "Done"
-#exit(:shutdown)
+exit(:shutdown)

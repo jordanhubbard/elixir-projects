@@ -22,7 +22,8 @@ defmodule Hangman.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:dictionary, path: "../dictionary"}
+      {:dictionary, path: "../dictionary"},
+      {:ex_doc, "~> 0.19", only: :dev}
     ]
   end
 end
